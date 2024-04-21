@@ -1,0 +1,9 @@
+{
+  "name": "@workspace/utils",
+  "private": true,
+  "packageManager": "yarn@4.1.1",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@workspace/tooling": "workspace:^"
+  }
+}

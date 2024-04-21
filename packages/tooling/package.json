@@ -1,0 +1,8 @@
+{
+  "name": "@workspace/tooling",
+  "packageManager": "yarn@4.1.1",
+  "dependencies": {
+    "eslint": "^9.1.0",
+    "typescript": "^5.4.5"
+  }
+}
